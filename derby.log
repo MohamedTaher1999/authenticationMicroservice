@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Oct 23 23:25:50 EEST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-0192-bb0e-9d18-00000133c830 
+on database directory memory:E:\codes\spring\cleanArch\c9def166-0ae4-49ab-a9e4-fc527f97c559 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/C:/Users/Taher/.m2/repository/org/apache/derby/derby/10.17.1.0/derby-10.17.1.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.4+7-LTS
+user.dir=E:\codes\spring\cleanArch
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
