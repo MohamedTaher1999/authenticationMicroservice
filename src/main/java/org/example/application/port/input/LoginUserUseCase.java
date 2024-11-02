@@ -6,6 +6,6 @@ import java.util.Optional;
 
 public interface LoginUserUseCase {
 
-    public Optional<User> login(String username, String password);
+    public User login(String username, String password);
 
 }
